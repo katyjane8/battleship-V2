@@ -4,7 +4,7 @@ require 'pry'
 class Game
   include Messages
 
-  attr_accessor :rick, :replicant
+  attr_accessor 
 
   def intro
     welcome_message
